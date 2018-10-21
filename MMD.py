@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.misc import factorial2 
 from scipy.special import hyp1f1
-import time
 np.set_printoptions(linewidth=300, suppress=True)
 
 class BasisFunction(object):
